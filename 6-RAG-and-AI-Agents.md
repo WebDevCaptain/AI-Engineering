@@ -10,7 +10,7 @@
 	- Research requires reading 50+ books
 	- Customer support needs access to years of documentation
 
-- >> `If you just paste everything into the model's input, you either (a) hit the limit and fail, or (b) pay massive costs processing unnecessary information`
+> `If you just paste everything into the model's input, you either (a) hit the limit and fail, or (b) pay massive costs processing unnecessary information`
 ---
 
 ### RAG comes to rescue
