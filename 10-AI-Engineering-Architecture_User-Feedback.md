@@ -16,13 +16,14 @@
     5. **Agent Patterns** - Enable loops, parallel execution, and write actions
 
 
-![A platform architecture with context construction](./images/02-adding-context.png)
+![A platform architecture with context construction](images/02-adding-context.png)
 
 
-![Application architecture with the addition of input and output guardrails.](./images/03-guardrails.png)
+![Application architecture with the addition of input and output guardrails.](images/03-guardrails.png)
 
 
 
+![Routing helps the system use the optimal solution for each query.](images/04-model-routing-and-gateway.png)
 
 
 > Most AI applications share common building blocks despite diverse use cases. Understanding this framework helps you avoid reinventing the wheel.
